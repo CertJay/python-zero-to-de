@@ -1,0 +1,120 @@
+2026-10-01 01:06:48 INFO [load] Loaded 173 rows
+2026-10-01 01:07:01 INFO [extract] Batch 1 finished
+2026-10-01 01:12:39 INFO [load] Batch 1 finished
+2026-10-01 01:16:46 INFO [transform] Loaded 677 rows
+2026-10-01 01:25:21 INFO [scheduler] Batch 1 started
+2026-10-01 01:30:12 WARNING [transform] Row 136: outlet name not recognised
+2026-10-01 01:31:59 INFO [transform] Batch 1 started
+2026-10-01 01:34:33 INFO [scheduler] Loaded 875 rows
+2026-10-01 01:43:09 INFO [scheduler] Batch 1 finished
+2026-10-01 01:48:21 INFO [extract] Batch 1 finished
+2026-10-01 01:51:13 INFO [extract] Batch 2 started
+2026-10-01 01:58:58 INFO [load] Loaded 419 rows
+2026-10-01 02:04:55 INFO [transform] Loaded 174 rows
+2026-10-01 02:09:51 INFO [scheduler] Loaded 739 rows
+2026-10-01 02:11:16 INFO [transform] Batch 2 finished
+2026-10-01 02:17:06 INFO [extract] Batch 2 finished
+2026-10-01 02:18:32 INFO [load] Loaded 283 rows
+2026-10-01 02:23:10 ERROR [load] Row 279: guest G999 not found
+2026-10-01 02:32:08 WARNING [transform] Slow query: 4s
+2026-10-01 02:36:13 INFO [transform] Batch 2 finished
+2026-10-01 02:43:04 INFO [extract] Batch 3 started
+2026-10-01 02:43:35 INFO [load] Batch 3 finished
+2026-10-01 02:46:19 INFO [transform] Batch 3 finished
+2026-10-01 02:51:14 WARNING [extract] Row 541: outlet name not recognised
+2026-10-01 02:51:54 INFO [load] Loaded 537 rows
+2026-10-01 03:01:20 WARNING [scheduler] Row 554: outlet name not recognised
+2026-10-01 03:11:02 INFO [load] Batch 3 finished
+2026-10-01 03:19:20 WARNING [load] Row 93: outlet name not recognised
+2026-10-01 03:25:39 INFO [extract] Loaded 209 rows
+2026-10-01 03:34:39 INFO [extract] Loaded 343 rows
+2026-10-01 03:43:07 WARNING [transform] Slow query: 21s
+2026-10-01 03:43:19 WARNING [scheduler] Slow query: 38s
+2026-10-01 03:50:08 INFO [transform] Batch 4 started
+2026-10-01 03:54:42 INFO [load] Loaded 690 rows
+2026-10-01 03:59:38 WARNING [transform] Slow query: 7s
+2026-10-01 04:02:02 INFO [load] Batch 4 started
+2026-10-01 04:10:30 INFO [extract] Loaded 69 rows
+2026-10-01 04:13:45 INFO [extract] Loaded 325 rows
+2026-10-01 04:17:48 INFO [load] Batch 4 started
+2026-10-01 04:25:03 INFO [load] Loaded 430 rows
+2026-10-01 04:26:30 INFO [scheduler] Batch 5 started
+2026-10-01 04:29:40 INFO [extract] Loaded 886 rows
+2026-10-01 04:33:59 INFO [scheduler] Loaded 303 rows
+2026-10-01 04:35:40 WARNING [load] Row 400: outlet name not recognised
+2026-10-01 04:38:27 INFO [load] Batch 5 finished
+2026-10-01 04:46:44 INFO [extract] Batch 5 started
+2026-10-01 04:50:50 INFO [extract] Loaded 65 rows
+2026-10-01 04:57:40 INFO [transform] Batch 5 started
+2026-10-01 05:04:05 INFO [load] Batch 5 started
+2026-10-01 05:05:11 INFO [extract] Loaded 710 rows
+2026-10-01 05:07:24 WARNING [scheduler] Row 573: outlet name not recognised
+2026-10-01 05:10:46 INFO [load] Batch 6 finished
+2026-10-01 05:11:31 WARNING [scheduler] Slow query: 37s
+2026-10-01 05:14:50 ERROR [scheduler] Row 358: missing amount
+2026-10-01 05:19:36 ERROR [transform] Row 72: guest G999 not found
+2026-10-01 05:27:21 INFO [extract] Loaded 604 rows
+2026-10-01 05:36:04 INFO [transform] Batch 6 finished
+2026-10-01 05:41:37 INFO [scheduler] Batch 6 finished
+2026-10-01 05:51:06 INFO [load] Batch 6 finished
+2026-10-01 05:53:04 INFO [transform] Batch 6 finished
+2026-10-01 05:56:11 INFO [extract] Batch 7 started
+2026-10-01 05:56:48 ERROR [load] Row 503: guest G999 not found
+2026-10-01 05:57:43 INFO [transform] Batch 7 started
+2026-10-01 06:06:11 INFO [scheduler] Loaded 870 rows
+2026-10-01 06:12:33 INFO [extract] Batch 7 finished
+2026-10-01 06:17:49 INFO [transform] Batch 7 started
+2026-10-01 06:26:58 INFO [transform] Batch 7 started
+2026-10-01 06:36:34 WARNING [load] Slow query: 39s
+2026-10-01 06:44:28 INFO [scheduler] Batch 7 started
+2026-10-01 06:53:09 INFO [load] Batch 7 finished
+2026-10-01 06:58:36 WARNING [load] Slow query: 30s
+2026-10-01 07:02:47 ERROR [load] Row 386: guest G999 not found
+2026-10-01 07:09:00 WARNING [load] Slow query: 5s
+2026-10-01 07:09:21 WARNING [transform] Row 8: outlet name not recognised
+2026-10-01 07:13:05 INFO [transform] Batch 8 started
+2026-10-01 07:14:46 INFO [load] Loaded 414 rows
+2026-10-01 07:21:06 ERROR [extract] Row 264: missing amount
+2026-10-01 07:30:55 INFO [scheduler] Batch 8 finished
+2026-10-01 07:33:57 WARNING [scheduler] Row 309: outlet name not recognised
+2026-10-01 07:35:22 INFO [extract] Loaded 406 rows
+2026-10-01 07:39:19 ERROR [load] Row 393: missing amount
+2026-10-01 07:48:20 INFO [load] Loaded 602 rows
+2026-10-01 07:56:59 INFO [extract] Batch 9 started
+2026-10-01 08:00:51 INFO [transform] Loaded 855 rows
+2026-10-01 08:06:40 INFO [scheduler] Loaded 635 rows
+2026-10-01 08:11:13 INFO [transform] Loaded 563 rows
+2026-10-01 08:19:30 WARNING [transform] Row 406: outlet name not recognised
+2026-10-01 08:29:09 ERROR [extract] Row 254: guest G999 not found
+2026-10-01 08:33:46 INFO [extract] Loaded 751 rows
+2026-10-01 08:40:54 INFO [load] Loaded 406 rows
+2026-10-01 08:41:23 INFO [transform] Batch 10 started
+2026-10-01 08:48:59 INFO [extract] Batch 10 started
+2026-10-01 08:50:59 INFO [extract] Batch 10 started
+2026-10-01 08:56:55 INFO [load] Loaded 510 rows
+2026-10-01 09:00:34 WARNING [load] Row 561: outlet name not recognised
+2026-10-01 09:10:00 WARNING [extract] Row 20: outlet name not recognised
+2026-10-01 09:14:26 INFO [extract] Batch 10 started
+2026-10-01 09:22:27 INFO [extract] Batch 10 started
+2026-10-01 09:22:51 INFO [extract] Batch 10 finished
+2026-10-01 09:28:19 WARNING [scheduler] Row 205: outlet name not recognised
+2026-10-01 09:37:58 INFO [load] Batch 11 started
+2026-10-01 09:46:24 INFO [load] Batch 11 finished
+2026-10-01 09:52:32 INFO [load] Batch 11 started
+2026-10-01 09:59:13 INFO [load] Batch 11 finished
+2026-10-01 10:06:00 INFO [transform] Batch 11 started
+2026-10-01 10:13:12 INFO [load] Batch 11 finished
+2026-10-01 10:20:56 WARNING [transform] Row 143: outlet name not recognised
+2026-10-01 10:23:22 INFO [scheduler] Batch 11 finished
+2026-10-01 10:25:55 ERROR [extract] Row 71: missing amount
+2026-10-01 10:29:08 INFO [scheduler] Batch 11 started
+2026-10-01 10:36:14 INFO [transform] Loaded 813 rows
+2026-10-01 10:38:08 INFO [transform] Batch 12 started
+2026-10-01 10:42:10 INFO [scheduler] Batch 12 finished
+2026-10-01 10:44:32 WARNING [scheduler] Slow query: 14s
+2026-10-01 10:53:00 WARNING [extract] Row 199: outlet name not recognised
+2026-10-01 11:00:03 INFO [transform] Loaded 472 rows
+2026-10-01 11:01:15 INFO [scheduler] Loaded 681 rows
+2026-10-01 11:05:32 INFO [load] Loaded 844 rows
+2026-10-01 11:12:20 ERROR [extract] Row 610: guest G999 not found
+2026-10-01 11:21:18 INFO [scheduler] Loaded 517 rows

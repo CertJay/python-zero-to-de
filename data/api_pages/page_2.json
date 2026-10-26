@@ -1,0 +1,106 @@
+{
+  "page": 2,
+  "results": [
+    {
+      "review_id": 11,
+      "guest": {
+        "id": "G060",
+        "tier": "Gold"
+      },
+      "outlet": "Bar",
+      "rating": 3,
+      "submitted_at": "2026-10-06T16:00:00Z"
+    },
+    {
+      "review_id": 12,
+      "guest": {
+        "id": "G006",
+        "tier": "Bronze"
+      },
+      "outlet": "Excursions",
+      "rating": 3,
+      "submitted_at": "2026-10-14T08:00:00Z"
+    },
+    {
+      "review_id": 13,
+      "guest": {
+        "id": "G031",
+        "tier": "Silver"
+      },
+      "outlet": "Bar",
+      "rating": 3,
+      "submitted_at": "2026-10-07T14:00:00Z"
+    },
+    {
+      "review_id": 14,
+      "guest": {
+        "id": "G052",
+        "tier": "Platinum"
+      },
+      "outlet": "Cafe",
+      "rating": 5,
+      "submitted_at": "2026-10-11T08:00:00Z"
+    },
+    {
+      "review_id": 15,
+      "guest": {
+        "id": "G058",
+        "tier": "Silver"
+      },
+      "outlet": "Restaurant",
+      "rating": 2,
+      "submitted_at": "2026-10-07T21:00:00Z"
+    },
+    {
+      "review_id": 16,
+      "guest": {
+        "id": "G039",
+        "tier": "Platinum"
+      },
+      "outlet": "Spa",
+      "rating": 4,
+      "submitted_at": "2026-10-09T20:00:00Z"
+    },
+    {
+      "review_id": 17,
+      "guest": {
+        "id": "G019",
+        "tier": "Bronze"
+      },
+      "outlet": "Bar",
+      "rating": 2,
+      "submitted_at": "2026-10-09T10:00:00Z"
+    },
+    {
+      "review_id": 18,
+      "guest": {
+        "id": "G028",
+        "tier": "Silver"
+      },
+      "outlet": "Cafe",
+      "rating": 4,
+      "submitted_at": "2026-10-10T22:00:00Z"
+    },
+    {
+      "review_id": 19,
+      "guest": {
+        "id": "G046",
+        "tier": "Gold"
+      },
+      "outlet": "Spa",
+      "rating": 4,
+      "submitted_at": "2026-10-14T21:00:00Z"
+    },
+    {
+      "review_id": 20,
+      "guest": {
+        "id": "G021",
+        "tier": "Bronze"
+      },
+      "outlet": "Boutique",
+      "rating": 1,
+      "submitted_at": "2026-10-10T12:00:00Z"
+    }
+  ],
+  "next": "https://api.example.com/reviews?page=3"
+}

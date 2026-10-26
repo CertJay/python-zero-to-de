@@ -1,0 +1,32 @@
+[
+  {
+    "invoice_no": "INV-1001",
+    "lines": 4,
+    "true_total": 15080.0,
+    "printed_total": 15080.0
+  },
+  {
+    "invoice_no": "INV-1002",
+    "lines": 3,
+    "true_total": 1495.0,
+    "printed_total": 1495.0
+  },
+  {
+    "invoice_no": "INV-1003",
+    "lines": 6,
+    "true_total": 19010.0,
+    "printed_total": 19010.0
+  },
+  {
+    "invoice_no": "INV-1004",
+    "lines": 5,
+    "true_total": 15920.0,
+    "printed_total": 16420.0
+  },
+  {
+    "invoice_no": "INV-1005",
+    "lines": 6,
+    "true_total": 51710.0,
+    "printed_total": 51710.0
+  }
+]

@@ -1,0 +1,1082 @@
+[
+  {
+    "guest_id": "G001",
+    "name": {
+      "first": "Uma",
+      "last": "Tan"
+    },
+    "nationality": "DE",
+    "loyalty_tier": "Silver",
+    "stay": {
+      "cabin": "A172",
+      "check_in": "2026-10-01",
+      "check_out": "2026-10-08"
+    },
+    "contact": {
+      "email": "uma.tan1@example.com",
+      "phone": "+639172719583"
+    }
+  },
+  {
+    "guest_id": "G002",
+    "name": {
+      "first": "Victor",
+      "last": "Mendoza"
+    },
+    "nationality": "KR",
+    "loyalty_tier": "Platinum",
+    "stay": {
+      "cabin": "A116",
+      "check_in": "2026-10-01",
+      "check_out": "2026-10-08"
+    },
+    "contact": {
+      "email": "victor.mendoza2@example.com",
+      "phone": "+639172571945"
+    }
+  },
+  {
+    "guest_id": "G003",
+    "name": {
+      "first": "Grace",
+      "last": "Rossi"
+    },
+    "nationality": "KR",
+    "loyalty_tier": "Bronze",
+    "stay": {
+      "cabin": "C202",
+      "check_in": "2026-10-01",
+      "check_out": "2026-10-15"
+    },
+    "contact": {
+      "email": "grace.rossi3@example.com",
+      "phone": "+639178038374"
+    }
+  },
+  {
+    "guest_id": "G004",
+    "name": {
+      "first": "Hiro",
+      "last": "Okafor"
+    },
+    "nationality": "DE",
+    "loyalty_tier": "Bronze",
+    "stay": {
+      "cabin": "A317",
+      "check_in": "2026-10-01",
+      "check_out": "2026-10-15"
+    },
+    "contact": {
+      "email": "hiro.okafor4@example.com",
+      "phone": "+639176708456"
+    }
+  },
+  {
+    "guest_id": "G005",
+    "name": {
+      "first": "Isla",
+      "last": "Lim"
+    },
+    "nationality": "JP",
+    "loyalty_tier": "Bronze",
+    "stay": {
+      "cabin": "A295",
+      "check_in": "2026-10-01",
+      "check_out": "2026-10-08"
+    },
+    "contact": {
+      "email": "isla.lim5@example.com",
+      "phone": "+639172622631"
+    }
+  },
+  {
+    "guest_id": "G006",
+    "name": {
+      "first": "Lena",
+      "last": "Novak"
+    },
+    "nationality": "DE",
+    "loyalty_tier": "Bronze",
+    "stay": {
+      "cabin": "C336",
+      "check_in": "2026-10-01",
+      "check_out": "2026-10-15"
+    },
+    "contact": {
+      "email": "lena.novak6@example.com",
+      "phone": "+639179996414"
+    }
+  },
+  {
+    "guest_id": "G007",
+    "name": {
+      "first": "Diego",
+      "last": "Silva"
+    },
+    "nationality": "IT",
+    "loyalty_tier": "Gold",
+    "stay": {
+      "cabin": "C417",
+      "check_in": "2026-10-01",
+      "check_out": "2026-10-08"
+    },
+    "contact": {
+      "email": "diego.silva7@example.com",
+      "phone": "+639177067228"
+    }
+  },
+  {
+    "guest_id": "G008",
+    "name": {
+      "first": "Sofia",
+      "last": "Muller"
+    },
+    "nationality": "SG",
+    "loyalty_tier": "Bronze",
+    "stay": {
+      "cabin": "C217",
+      "check_in": "2026-10-01",
+      "check_out": "2026-10-15"
+    },
+    "contact": {
+      "email": "sofia.muller8@example.com",
+      "phone": "+639175855124"
+    }
+  },
+  {
+    "guest_id": "G009",
+    "name": {
+      "first": "Carla",
+      "last": "Rossi"
+    },
+    "nationality": "AU",
+    "loyalty_tier": "Gold",
+    "stay": {
+      "cabin": "B287",
+      "check_in": "2026-10-01",
+      "check_out": "2026-10-08"
+    },
+    "contact": {
+      "email": "carla.rossi9@example.com",
+      "phone": "+639173728882"
+    }
+  },
+  {
+    "guest_id": "G010",
+    "name": {
+      "first": "Lena",
+      "last": "Novak"
+    },
+    "nationality": "DE",
+    "loyalty_tier": "Bronze",
+    "stay": {
+      "cabin": "C188",
+      "check_in": "2026-10-01",
+      "check_out": "2026-10-08"
+    },
+    "contact": {
+      "email": "lena.novak10@example.com",
+      "phone": "+639179961380"
+    }
+  },
+  {
+    "guest_id": "G011",
+    "name": {
+      "first": "Ximena",
+      "last": "Rossi"
+    },
+    "nationality": "FR",
+    "loyalty_tier": "Platinum",
+    "stay": {
+      "cabin": "B386",
+      "check_in": "2026-10-01",
+      "check_out": "2026-10-08"
+    },
+    "contact": {
+      "email": "ximena.rossi11@example.com",
+      "phone": "+639174684531"
+    }
+  },
+  {
+    "guest_id": "G012",
+    "name": {
+      "first": "Victor",
+      "last": "Dubois"
+    },
+    "nationality": "GB",
+    "loyalty_tier": "Bronze",
+    "stay": {
+      "cabin": "B306",
+      "check_in": "2026-10-01",
+      "check_out": "2026-10-08"
+    },
+    "contact": {
+      "email": "victor.dubois12@example.com",
+      "phone": "+639175491946"
+    }
+  },
+  {
+    "guest_id": "G013",
+    "name": {
+      "first": "Carla",
+      "last": "Muller"
+    },
+    "nationality": "JP",
+    "loyalty_tier": "Silver",
+    "stay": {
+      "cabin": "C356",
+      "check_in": "2026-10-01",
+      "check_out": "2026-10-15"
+    },
+    "contact": {
+      "email": "carla.muller13@example.com",
+      "phone": "+639177637601"
+    }
+  },
+  {
+    "guest_id": "G014",
+    "name": {
+      "first": "Uma",
+      "last": "Okafor"
+    },
+    "nationality": "DE",
+    "loyalty_tier": "Silver",
+    "stay": {
+      "cabin": "A388",
+      "check_in": "2026-10-01",
+      "check_out": "2026-10-08"
+    },
+    "contact": {
+      "email": "uma.okafor14@example.com",
+      "phone": "+639175408072"
+    }
+  },
+  {
+    "guest_id": "G015",
+    "name": {
+      "first": "Ximena",
+      "last": "Haddad"
+    },
+    "nationality": "AU",
+    "loyalty_tier": "Gold",
+    "stay": {
+      "cabin": "A171",
+      "check_in": "2026-10-01",
+      "check_out": "2026-10-15"
+    },
+    "contact": {
+      "email": "ximena.haddad15@example.com",
+      "phone": "+639179548432"
+    }
+  },
+  {
+    "guest_id": "G016",
+    "name": {
+      "first": "Paula",
+      "last": "Cruz"
+    },
+    "nationality": "SG",
+    "loyalty_tier": "Silver",
+    "stay": {
+      "cabin": "C182",
+      "check_in": "2026-10-01",
+      "check_out": "2026-10-08"
+    },
+    "contact": {
+      "email": "paula.cruz16@example.com",
+      "phone": "+639178082668"
+    }
+  },
+  {
+    "guest_id": "G017",
+    "name": {
+      "first": "Tomas",
+      "last": "Cruz"
+    },
+    "nationality": "AU",
+    "loyalty_tier": "Platinum",
+    "stay": {
+      "cabin": "C229",
+      "check_in": "2026-10-01",
+      "check_out": "2026-10-11"
+    },
+    "contact": {
+      "email": "tomas.cruz17@example.com",
+      "phone": "+639171192619"
+    }
+  },
+  {
+    "guest_id": "G018",
+    "name": {
+      "first": "Victor",
+      "last": "Tan"
+    },
+    "nationality": "IT",
+    "loyalty_tier": "Gold",
+    "stay": {
+      "cabin": "C275",
+      "check_in": "2026-10-01",
+      "check_out": "2026-10-15"
+    },
+    "contact": {
+      "email": "victor.tan18@example.com",
+      "phone": "+639172871534"
+    }
+  },
+  {
+    "guest_id": "G019",
+    "name": {
+      "first": "Jonas",
+      "last": "Haddad"
+    },
+    "nationality": "FR",
+    "loyalty_tier": "Bronze",
+    "stay": {
+      "cabin": "C235",
+      "check_in": "2026-10-01",
+      "check_out": "2026-10-08"
+    },
+    "contact": {
+      "email": "jonas.haddad19@example.com",
+      "phone": "+639179398441"
+    }
+  },
+  {
+    "guest_id": "G020",
+    "name": {
+      "first": "Yusuf",
+      "last": "Garcia"
+    },
+    "nationality": "SG",
+    "loyalty_tier": "Gold",
+    "stay": {
+      "cabin": "C360",
+      "check_in": "2026-10-01",
+      "check_out": "2026-10-15"
+    },
+    "contact": {
+      "email": "yusuf.garcia20@example.com",
+      "phone": "+639174337174"
+    }
+  },
+  {
+    "guest_id": "G021",
+    "name": {
+      "first": "Elena",
+      "last": "Novak"
+    },
+    "nationality": "IT",
+    "loyalty_tier": "Bronze",
+    "stay": {
+      "cabin": "C266",
+      "check_in": "2026-10-01",
+      "check_out": "2026-10-08"
+    },
+    "contact": {
+      "email": "elena.novak21@example.com",
+      "phone": "+639179197443"
+    }
+  },
+  {
+    "guest_id": "G022",
+    "name": {
+      "first": "Ana",
+      "last": "Tan"
+    },
+    "nationality": "DE",
+    "loyalty_tier": "Silver",
+    "stay": {
+      "cabin": "A224",
+      "check_in": "2026-10-01",
+      "check_out": "2026-10-11"
+    },
+    "contact": {
+      "email": "ana.tan22@example.com",
+      "phone": "+639172321324"
+    }
+  },
+  {
+    "guest_id": "G023",
+    "name": {
+      "first": "Carla",
+      "last": "Larsen"
+    },
+    "nationality": "IT",
+    "loyalty_tier": "Silver",
+    "stay": {
+      "cabin": "A344",
+      "check_in": "2026-10-01",
+      "check_out": "2026-10-08"
+    },
+    "contact": {
+      "email": "carla.larsen23@example.com",
+      "phone": "+639173770370"
+    }
+  },
+  {
+    "guest_id": "G024",
+    "name": {
+      "first": "Isla",
+      "last": "Costa"
+    },
+    "nationality": "AU",
+    "loyalty_tier": "Silver",
+    "stay": {
+      "cabin": "C203",
+      "check_in": "2026-10-01",
+      "check_out": "2026-10-15"
+    },
+    "contact": {
+      "email": "isla.costa24@example.com",
+      "phone": "+639176229731"
+    }
+  },
+  {
+    "guest_id": "G025",
+    "name": {
+      "first": "Marco",
+      "last": "Novak"
+    },
+    "nationality": "IT",
+    "loyalty_tier": "Platinum",
+    "stay": {
+      "cabin": "A227",
+      "check_in": "2026-10-01",
+      "check_out": "2026-10-11"
+    },
+    "contact": {
+      "email": "marco.novak25@example.com",
+      "phone": "+639174769795"
+    }
+  },
+  {
+    "guest_id": "G026",
+    "name": {
+      "first": "Carla",
+      "last": "Dubois"
+    },
+    "nationality": "KR",
+    "loyalty_tier": "Silver",
+    "stay": {
+      "cabin": "C213",
+      "check_in": "2026-10-01",
+      "check_out": "2026-10-08"
+    },
+    "contact": {
+      "email": "carla.dubois26@example.com",
+      "phone": "+639171120642"
+    }
+  },
+  {
+    "guest_id": "G027",
+    "name": {
+      "first": "Carla",
+      "last": "Reyes"
+    },
+    "nationality": "SG",
+    "loyalty_tier": "Bronze",
+    "stay": {
+      "cabin": "B137",
+      "check_in": "2026-10-01",
+      "check_out": "2026-10-08"
+    },
+    "contact": {
+      "email": "carla.reyes27@example.com",
+      "phone": "+639179626108"
+    }
+  },
+  {
+    "guest_id": "G028",
+    "name": {
+      "first": "Hiro",
+      "last": "Kim"
+    },
+    "nationality": "FR",
+    "loyalty_tier": "Silver",
+    "stay": {
+      "cabin": "C168",
+      "check_in": "2026-10-01",
+      "check_out": "2026-10-15"
+    },
+    "contact": {
+      "email": "hiro.kim28@example.com",
+      "phone": "+639178930103"
+    }
+  },
+  {
+    "guest_id": "G029",
+    "name": {
+      "first": "Hiro",
+      "last": "Larsen"
+    },
+    "nationality": "GB",
+    "loyalty_tier": "Bronze",
+    "stay": {
+      "cabin": "A321",
+      "check_in": "2026-10-01",
+      "check_out": "2026-10-11"
+    },
+    "contact": {
+      "email": "hiro.larsen29@example.com",
+      "phone": "+639176944126"
+    }
+  },
+  {
+    "guest_id": "G030",
+    "name": {
+      "first": "Nina",
+      "last": "Haddad"
+    },
+    "nationality": "PH",
+    "loyalty_tier": "Bronze",
+    "stay": {
+      "cabin": "A307",
+      "check_in": "2026-10-01",
+      "check_out": "2026-10-11"
+    },
+    "contact": {
+      "email": "nina.haddad30@example.com",
+      "phone": "+639176692553"
+    }
+  },
+  {
+    "guest_id": "G031",
+    "name": {
+      "first": "Zara",
+      "last": "Tan"
+    },
+    "nationality": "GB",
+    "loyalty_tier": "Silver",
+    "stay": {
+      "cabin": "C330",
+      "check_in": "2026-10-01",
+      "check_out": "2026-10-08"
+    },
+    "contact": {
+      "email": "zara.tan31@example.com",
+      "phone": "+639173351868"
+    }
+  },
+  {
+    "guest_id": "G032",
+    "name": {
+      "first": "Nina",
+      "last": "Garcia"
+    },
+    "nationality": "FR",
+    "loyalty_tier": "Silver",
+    "stay": {
+      "cabin": "A327",
+      "check_in": "2026-10-01",
+      "check_out": "2026-10-11"
+    },
+    "contact": {
+      "email": "nina.garcia32@example.com",
+      "phone": "+639172642635"
+    }
+  },
+  {
+    "guest_id": "G033",
+    "name": {
+      "first": "Ben",
+      "last": "Mendoza"
+    },
+    "nationality": "SG",
+    "loyalty_tier": "Silver",
+    "stay": {
+      "cabin": "A309",
+      "check_in": "2026-10-01",
+      "check_out": "2026-10-08"
+    },
+    "contact": {
+      "email": "ben.mendoza33@example.com",
+      "phone": "+639179147706"
+    }
+  },
+  {
+    "guest_id": "G034",
+    "name": {
+      "first": "Paula",
+      "last": "Muller"
+    },
+    "nationality": "PH",
+    "loyalty_tier": "Silver",
+    "stay": {
+      "cabin": "B102",
+      "check_in": "2026-10-01",
+      "check_out": "2026-10-11"
+    },
+    "contact": {
+      "email": "paula.muller34@example.com",
+      "phone": "+639177550190"
+    }
+  },
+  {
+    "guest_id": "G035",
+    "name": {
+      "first": "Isla",
+      "last": "Okafor"
+    },
+    "nationality": "AU",
+    "loyalty_tier": "Platinum",
+    "stay": {
+      "cabin": "A198",
+      "check_in": "2026-10-01",
+      "check_out": "2026-10-11"
+    },
+    "contact": {
+      "email": "isla.okafor35@example.com",
+      "phone": "+639175977931"
+    }
+  },
+  {
+    "guest_id": "G036",
+    "name": {
+      "first": "Grace",
+      "last": "Reyes"
+    },
+    "nationality": "IT",
+    "loyalty_tier": "Bronze",
+    "stay": {
+      "cabin": "C261",
+      "check_in": "2026-10-01",
+      "check_out": "2026-10-15"
+    },
+    "contact": {
+      "email": "grace.reyes36@example.com",
+      "phone": "+639171959074"
+    }
+  },
+  {
+    "guest_id": "G037",
+    "name": {
+      "first": "Ben",
+      "last": "Larsen"
+    },
+    "nationality": "IT",
+    "loyalty_tier": "Silver",
+    "stay": {
+      "cabin": "A361",
+      "check_in": "2026-10-01",
+      "check_out": "2026-10-15"
+    },
+    "contact": {
+      "email": "ben.larsen37@example.com",
+      "phone": "+639172344047"
+    }
+  },
+  {
+    "guest_id": "G038",
+    "name": {
+      "first": "Felix",
+      "last": "Cruz"
+    },
+    "nationality": "SG",
+    "loyalty_tier": "Silver",
+    "stay": {
+      "cabin": "B162",
+      "check_in": "2026-10-01",
+      "check_out": "2026-10-15"
+    },
+    "contact": {
+      "email": "felix.cruz38@example.com",
+      "phone": "+639175130808"
+    }
+  },
+  {
+    "guest_id": "G039",
+    "name": {
+      "first": "Sofia",
+      "last": "Reyes"
+    },
+    "nationality": "SG",
+    "loyalty_tier": "Platinum",
+    "stay": {
+      "cabin": "C399",
+      "check_in": "2026-10-01",
+      "check_out": "2026-10-15"
+    },
+    "contact": {
+      "email": "sofia.reyes39@example.com",
+      "phone": "+639179770838"
+    }
+  },
+  {
+    "guest_id": "G040",
+    "name": {
+      "first": "Kai",
+      "last": "Kim"
+    },
+    "nationality": "JP",
+    "loyalty_tier": "Silver",
+    "stay": {
+      "cabin": "B303",
+      "check_in": "2026-10-01",
+      "check_out": "2026-10-08"
+    },
+    "contact": {
+      "email": "kai.kim40@example.com",
+      "phone": "+639173195773"
+    }
+  },
+  {
+    "guest_id": "G041",
+    "name": {
+      "first": "Victor",
+      "last": "Sato"
+    },
+    "nationality": "JP",
+    "loyalty_tier": "Bronze",
+    "stay": {
+      "cabin": "A335",
+      "check_in": "2026-10-01",
+      "check_out": "2026-10-11"
+    },
+    "contact": {
+      "email": "victor.sato41@example.com",
+      "phone": "+639172677407"
+    }
+  },
+  {
+    "guest_id": "G042",
+    "name": {
+      "first": "Carla",
+      "last": "Mendoza"
+    },
+    "nationality": "IT",
+    "loyalty_tier": "Gold",
+    "stay": {
+      "cabin": "A279",
+      "check_in": "2026-10-01",
+      "check_out": "2026-10-08"
+    },
+    "contact": {
+      "email": "carla.mendoza42@example.com",
+      "phone": "+639172154126"
+    }
+  },
+  {
+    "guest_id": "G043",
+    "name": {
+      "first": "Hiro",
+      "last": "Novak"
+    },
+    "nationality": "US",
+    "loyalty_tier": "Platinum",
+    "stay": {
+      "cabin": "C255",
+      "check_in": "2026-10-01",
+      "check_out": "2026-10-11"
+    },
+    "contact": {
+      "email": "hiro.novak43@example.com",
+      "phone": "+639179874152"
+    }
+  },
+  {
+    "guest_id": "G044",
+    "name": {
+      "first": "Ana",
+      "last": "Mendoza"
+    },
+    "nationality": "SG",
+    "loyalty_tier": "Silver",
+    "stay": {
+      "cabin": "B160",
+      "check_in": "2026-10-01",
+      "check_out": "2026-10-11"
+    },
+    "contact": {
+      "email": "ana.mendoza44@example.com",
+      "phone": "+639172795765"
+    }
+  },
+  {
+    "guest_id": "G045",
+    "name": {
+      "first": "Ximena",
+      "last": "Mendoza"
+    },
+    "nationality": "DE",
+    "loyalty_tier": "Gold",
+    "stay": {
+      "cabin": "C208",
+      "check_in": "2026-10-01",
+      "check_out": "2026-10-08"
+    },
+    "contact": {
+      "email": "ximena.mendoza45@example.com",
+      "phone": "+639176752576"
+    }
+  },
+  {
+    "guest_id": "G046",
+    "name": {
+      "first": "Grace",
+      "last": "Kim"
+    },
+    "nationality": "FR",
+    "loyalty_tier": "Gold",
+    "stay": {
+      "cabin": "A148",
+      "check_in": "2026-10-01",
+      "check_out": "2026-10-15"
+    },
+    "contact": {
+      "email": "grace.kim46@example.com",
+      "phone": "+639178106422"
+    }
+  },
+  {
+    "guest_id": "G047",
+    "name": {
+      "first": "Isla",
+      "last": "Reyes"
+    },
+    "nationality": "JP",
+    "loyalty_tier": "Silver",
+    "stay": {
+      "cabin": "C235",
+      "check_in": "2026-10-01",
+      "check_out": "2026-10-08"
+    },
+    "contact": {
+      "email": "isla.reyes47@example.com",
+      "phone": "+639173710895"
+    }
+  },
+  {
+    "guest_id": "G048",
+    "name": {
+      "first": "Ximena",
+      "last": "Okafor"
+    },
+    "nationality": "AU",
+    "loyalty_tier": "Bronze",
+    "stay": {
+      "cabin": "A139",
+      "check_in": "2026-10-01",
+      "check_out": "2026-10-15"
+    },
+    "contact": {
+      "email": "ximena.okafor48@example.com",
+      "phone": "+639173500715"
+    }
+  },
+  {
+    "guest_id": "G049",
+    "name": {
+      "first": "Rafael",
+      "last": "Reyes"
+    },
+    "nationality": "KR",
+    "loyalty_tier": "Silver",
+    "stay": {
+      "cabin": "B166",
+      "check_in": "2026-10-01",
+      "check_out": "2026-10-11"
+    },
+    "contact": {
+      "email": "rafael.reyes49@example.com",
+      "phone": "+639171701771"
+    }
+  },
+  {
+    "guest_id": "G050",
+    "name": {
+      "first": "Jonas",
+      "last": "Novak"
+    },
+    "nationality": "JP",
+    "loyalty_tier": "Silver",
+    "stay": {
+      "cabin": "C228",
+      "check_in": "2026-10-01",
+      "check_out": "2026-10-08"
+    },
+    "contact": {
+      "email": "jonas.novak50@example.com",
+      "phone": "+639172724590"
+    }
+  },
+  {
+    "guest_id": "G051",
+    "name": {
+      "first": "Lena",
+      "last": "Mendoza"
+    },
+    "nationality": "KR",
+    "loyalty_tier": "Silver",
+    "stay": {
+      "cabin": "A184",
+      "check_in": "2026-10-01",
+      "check_out": "2026-10-11"
+    },
+    "contact": {
+      "email": "lena.mendoza51@example.com",
+      "phone": "+639173970445"
+    }
+  },
+  {
+    "guest_id": "G052",
+    "name": {
+      "first": "Nina",
+      "last": "Santos"
+    },
+    "nationality": "JP",
+    "loyalty_tier": "Platinum",
+    "stay": {
+      "cabin": "C228",
+      "check_in": "2026-10-01",
+      "check_out": "2026-10-08"
+    },
+    "contact": {
+      "email": "nina.santos52@example.com",
+      "phone": "+639175476257"
+    }
+  },
+  {
+    "guest_id": "G053",
+    "name": {
+      "first": "Felix",
+      "last": "Tan"
+    },
+    "nationality": "PH",
+    "loyalty_tier": "Platinum",
+    "stay": {
+      "cabin": "A203",
+      "check_in": "2026-10-01",
+      "check_out": "2026-10-11"
+    },
+    "contact": {
+      "email": "felix.tan53@example.com",
+      "phone": "+639178722606"
+    }
+  },
+  {
+    "guest_id": "G054",
+    "name": {
+      "first": "Lena",
+      "last": "Sato"
+    },
+    "nationality": "GB",
+    "loyalty_tier": "Bronze",
+    "stay": {
+      "cabin": "C199",
+      "check_in": "2026-10-01",
+      "check_out": "2026-10-08"
+    },
+    "contact": {
+      "email": "lena.sato54@example.com",
+      "phone": "+639177685149"
+    }
+  },
+  {
+    "guest_id": "G055",
+    "name": {
+      "first": "Kai",
+      "last": "Kim"
+    },
+    "nationality": "DE",
+    "loyalty_tier": "Gold",
+    "stay": {
+      "cabin": "C361",
+      "check_in": "2026-10-01",
+      "check_out": "2026-10-08"
+    },
+    "contact": {
+      "email": "kai.kim55@example.com",
+      "phone": "+639177705490"
+    }
+  },
+  {
+    "guest_id": "G056",
+    "name": {
+      "first": "Victor",
+      "last": "Mendoza"
+    },
+    "nationality": "PH",
+    "loyalty_tier": "Bronze",
+    "stay": {
+      "cabin": "B192",
+      "check_in": "2026-10-01",
+      "check_out": "2026-10-11"
+    },
+    "contact": {
+      "email": "victor.mendoza56@example.com",
+      "phone": "+639175453786"
+    }
+  },
+  {
+    "guest_id": "G057",
+    "name": {
+      "first": "Ben",
+      "last": "Tan"
+    },
+    "nationality": "AU",
+    "loyalty_tier": "Gold",
+    "stay": {
+      "cabin": "C261",
+      "check_in": "2026-10-01",
+      "check_out": "2026-10-15"
+    },
+    "contact": {
+      "email": "ben.tan57@example.com",
+      "phone": "+639178321474"
+    }
+  },
+  {
+    "guest_id": "G058",
+    "name": {
+      "first": "Tomas",
+      "last": "Costa"
+    },
+    "nationality": "AU",
+    "loyalty_tier": "Silver",
+    "stay": {
+      "cabin": "B123",
+      "check_in": "2026-10-01",
+      "check_out": "2026-10-08"
+    },
+    "contact": {
+      "email": "tomas.costa58@example.com",
+      "phone": "+639178315831"
+    }
+  },
+  {
+    "guest_id": "G059",
+    "name": {
+      "first": "Ana",
+      "last": "Costa"
+    },
+    "nationality": "GB",
+    "loyalty_tier": "Gold",
+    "stay": {
+      "cabin": "B136",
+      "check_in": "2026-10-01",
+      "check_out": "2026-10-15"
+    },
+    "contact": {
+      "email": "ana.costa59@example.com",
+      "phone": "+639176539837"
+    }
+  },
+  {
+    "guest_id": "G060",
+    "name": {
+      "first": "Tomas",
+      "last": "Dubois"
+    },
+    "nationality": "SG",
+    "loyalty_tier": "Gold",
+    "stay": {
+      "cabin": "C259",
+      "check_in": "2026-10-01",
+      "check_out": "2026-10-15"
+    },
+    "contact": {
+      "email": "tomas.dubois60@example.com",
+      "phone": "+639177851696"
+    }
+  }
+]
