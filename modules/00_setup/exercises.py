@@ -4,6 +4,9 @@ Run:  python check.py 00
 """
 
 
+from unicodedata import name
+
+
 def greet(name):
     """Return a greeting for `name`.
 
@@ -12,7 +15,7 @@ def greet(name):
 
     Hint: use an f-string: f"Hello, {name}! ..."
     """
-    raise NotImplementedError
+    return f"Hello, {name}! Ready to build pipelines."
 
 
 def minutes_to_hours(minutes):
@@ -25,7 +28,7 @@ def minutes_to_hours(minutes):
 
     Hint: divide by 60, then use round(value, 2).
     """
-    raise NotImplementedError
+    return round(minutes / 60, 2)
 
 
 def describe_me():
@@ -35,4 +38,8 @@ def describe_me():
 
     {"name": "Miguel", "role": "Business Analyst", "goal": "Data Engineer by 2027"}
     """
-    raise NotImplementedError
+    return {
+        "name": "Miguel",
+        "role": "Business Analyst",
+        "goal": "Data Engineer by 2027"
+    }
